@@ -13,3 +13,6 @@ Introducción a la programación
 3. Clase 3
    1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%203)
    2. [Enlace del video](https://youtu.be/3UIkkmbMvd4)
+4. Clase 4
+   1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%204)
+   2. [Enlace del video](https://youtu.be/g8kjVUo0z3o)
