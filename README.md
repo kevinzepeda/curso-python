@@ -16,6 +16,6 @@ Introducción a la programación
 4. Clase 4
    1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%204)
    2. [Enlace del video](https://youtu.be/g8kjVUo0z3o)
-5. Clase 4
+5. Clase 5
    1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%205)
    2. [Enlace del video](https://youtu.be/oGZE8rPF9EI)
