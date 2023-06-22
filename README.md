@@ -25,3 +25,6 @@ Introducción a la programación
 7. Clase 7
    1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%207)
    2. [Enlace del video](https://youtu.be/7xwRz-730P4)
+8. Clase 8
+   1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%208)
+   2. [Enlace del video](https://youtu.be/Q8jTloBDiEw)
