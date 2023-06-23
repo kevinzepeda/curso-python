@@ -28,3 +28,6 @@ Introducción a la programación
 8. Clase 8
    1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%208)
    2. [Enlace del video](https://youtu.be/Q8jTloBDiEw)
+9. Clase 9
+   1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%209)
+   2. [Enlace del video](https://youtu.be/WkyLrEha_aw)
