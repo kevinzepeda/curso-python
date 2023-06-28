@@ -31,3 +31,6 @@ Introducción a la programación
 9. Clase 9
    1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%209)
    2. [Enlace del video](https://youtu.be/WkyLrEha_aw)
+10. Clase 10
+   1. [Enlace de la carpeta](https://github.com/kevinzepeda/curso-python/tree/main/Clase%2010)
+   2. [Enlace del video](https://youtu.be/rT7bWyn2LkU)
