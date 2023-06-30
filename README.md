@@ -15,3 +15,4 @@ Introducción a la programación
 9. Clase 9 - [Video de la clase](https://youtu.be/WkyLrEha_aw)
 10. Clase 10 - [Video de la clase](https://youtu.be/rT7bWyn2LkU)
 11. Clase 11 - [Video de la clase](https://youtu.be/nLaRAElCF00)
+12. Clase 12 - [Video de la clase](https://youtu.be/cOPGXQOSClY)
